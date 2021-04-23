@@ -1,7 +1,7 @@
 {
   "episodes": [
     {
-      "id": "RadicalCast-01-Nova-lei-de-venda-e-consumo-de-álcool-em-Cabo Verde-redes-socias-e-muito-mais",      
+      "id": "01",      
       "title": "RadicalCast - #01",
       "members": "Ang3l, Grey, Nox, Vongola, Hxriq",
       "published_at": "2019-11-15 15:15:09",
@@ -15,7 +15,7 @@
     },
 
     {
-      "id": "RadicalCast-02-Nostalgia-e-Hipocrisia-nas-redes-socias",      
+      "id": "02",      
       "title": "RadicalCast - #02",
       "members": "Ang3l, Grey, Nox, Vongola, Hxriq",
       "published_at": "2019-11-25 15:15:09",
@@ -28,7 +28,7 @@
       }
     },
     {
-      "id": "RadicalCast-03-Música-e-Influências-Culturais-convidado-CH-Lopes",      
+      "id": "03",      
       "title": "RadicalCast - #03",
       "members": "Ang3l, Grey, Nox, Vongola, Hxriq, CH",
       "published_at": "2019-11-30 15:15:09",
